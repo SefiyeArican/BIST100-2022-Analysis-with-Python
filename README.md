@@ -1,1 +1,2 @@
-# GMKA_Sefiye_Arican
+# PythonVeriAnalizi
+
